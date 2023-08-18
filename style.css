@@ -291,8 +291,13 @@ li{
     text-decoration: none;
     color: #242424d0;
 }
+.botaoanual:hover{
+    box-shadow: 0 0 10px yellowgreen;
+    padding: 20px;
+}
 .linkanual:visited{
     color: #242424d0;
+   
 }
 .divvitalicia{
     background-image: url('img/backgrounds/back-txture.webp');
